@@ -38,8 +38,11 @@
   margin: auto 0;
   width: 60px;
   height: 60px;
+  box-sizing: border-box;
+  padding-top: 18px;
   border-radius: 50%;
   border: 0px solid black;
+  text-align: center;
   background: rgba(0, 0, 0, .2);
   cursor: pointer;
 }
